@@ -1,4 +1,4 @@
-Laplace and Inverse Laplace Transform.
+**Laplace and Inverse Laplace Transforms**
 
 This Python program uses SymPy to compute the Laplace transform and Inverse Laplace transform of various mathematical expressions. The program supports standard functions as well as special functions like Heaviside and DiracDelta functions. 
 
